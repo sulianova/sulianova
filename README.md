@@ -23,7 +23,7 @@ I'm Sofiia, Web-designer and Frontend developer from Russia, Moscow, currently l
 
 ### My projects
 
-My current project is the LMS platform [Flearn]([url](https://flearn.net/course/finding-your-style)) ([GitHub]([url](https://github.com/sulianova/flearn-frontend))) which i'm co-developing with [Vladimir Fyodorov]([url](https://github.com/VladimirFyodorov)). We are using: TypeScript React Redux with Firebase. We are hoping to develop an LMS focused on courses for illustration and design.
+My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Vladimir Fyodorov]([https://github.com/sulianova](https://github.com/VladimirFyodorov)). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
 
 ### Where to find me
 <p>
