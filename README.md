@@ -21,6 +21,8 @@ I'm Sofiia, Web-designer and Frontend developer from Russia, Moscow, currently l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulianova&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My projects
+
 My current project is the LMS platform [Flearn]([url](https://flearn.net/course/finding-your-style)) ([GitHub]([url](https://github.com/sulianova/flearn-frontend))) which i'm co-developing with [Vladimir Fyodorov]([url](https://github.com/VladimirFyodorov)). We are using: TypeScript React Redux with Firebase. We are hoping to develop an LMS focused on courses for illustration and design.
 
 ### Where to find me
