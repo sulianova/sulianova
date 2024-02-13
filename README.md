@@ -1,5 +1,5 @@
 # Hey! Nice to see you
-I'm Sofiia, Frontend developer from Russia, Moscow, currently living in Balgrade, Serbia.
+I'm Sofiia, Web-designer and Frontend developer from Russia, Moscow, currently living in Balgrade, Serbia.
 <!-- ### GitHub Stats
 ![Sofi Ulianova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulianova&show_icons=true&theme=dark&hide=stars,prs,issues,contribs) -->
 ### Things I code with
