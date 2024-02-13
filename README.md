@@ -1,5 +1,5 @@
 # Hey! Nice to see you
-I'm Sofiia, Frontend developer from Russia, Moscow, currently living in Kazakhstan, Almaty.
+I'm Sofiia, Frontend developer from Russia, Moscow, currently living in Balgrade, Serbia.
 <!-- ### GitHub Stats
 ![Sofi Ulianova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulianova&show_icons=true&theme=dark&hide=stars,prs,issues,contribs) -->
 ### Things I code with
@@ -21,6 +21,7 @@ I'm Sofiia, Frontend developer from Russia, Moscow, currently living in Kazakhst
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulianova&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+My current project is the LMS platform [Flearn]([url](https://flearn.net/course/finding-your-style)) ([GitHub]([url](https://github.com/sulianova/flearn-frontend))) which i'm co-developing with [Vladimir Fyodorov]([url](https://github.com/VladimirFyodorov)). We are using: TypeScript React Redux with Firebase. We are hoping to develop an LMS focused on courses for illustration and design.
 
 ### Where to find me
 <p>
