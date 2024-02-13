@@ -3,6 +3,9 @@ I'm Sofiia, Web-designer and Frontend developer from Russia, Moscow, currently l
 <!-- ### GitHub Stats
 ![Sofi Ulianova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulianova&show_icons=true&theme=dark&hide=stars,prs,issues,contribs) -->
 
+### My projects
+
+My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Vladimir Fyodorov]([https://github.com/sulianova](https://github.com/VladimirFyodorov)). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
 
 ### Things I code with
 
@@ -28,10 +31,6 @@ I'm Sofiia, Web-designer and Frontend developer from Russia, Moscow, currently l
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulianova&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### My projects
-
-My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Vladimir Fyodorov]([https://github.com/sulianova](https://github.com/VladimirFyodorov)). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
 
 ### Where to find me
 <p>
