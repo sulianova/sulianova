@@ -7,6 +7,23 @@ I'm Sofiia, Frontend developer from Russia, Moscow, currently living in Balgrade
 
 My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Vladimir Fyodorov]([https://github.com/sulianova](https://github.com/VladimirFyodorov)). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
 
+### CV: <a href="https://ekaterinburg.hh.ru/resume/60a01643ff027fc2f10039ed1f6f7961465544">hh.ru</a>
+
+### EDUCATION
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <span style="font-weight: bold">Bachelor's degree in economics and statistics</span>
+    at HSE
+  </div>
+  <div>09.2012 - 07.2016</div>
+    <div>
+    <span style="font-weight: bold">Masters's degree in economics and statistics</span>
+    at HSE
+  </div>
+  <div>09.2016 - 07.2018</div>
+</div>
+
 ### Things I code with
 
 <p>
